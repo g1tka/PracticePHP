@@ -43,4 +43,6 @@ $_GET, $_POST, $_POST, $_FILES, $_SESSION, $_COOKIE
 $priceか$countに数値以外が入力された場合、
 計算が行えない。→エラー。
 ＊入力された内容が数値かどうか判定する仕掛けが必要。
+
+C:\xampp\htdocs\php>
 -->

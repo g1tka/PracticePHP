@@ -7,3 +7,11 @@
 <p><input type="submit" value="確定"></p>
 </form>
 <?php require '../footer.php'; ?>
+
+<!--
+type="radio"はラジオボタン。ラジオボタン名をvalueに。
+name="meal"がリクエストパラメータ名になる。
+checkedであらかじめ選択状態にできる。
+name属性の値が同じラジオボタンはグループになる。
+outputへ
+-->
