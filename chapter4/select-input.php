@@ -9,3 +9,9 @@
 <p><input type="submit" value="確定"></p>
 </form>
 <?php require '../footer.php'; ?>
+
+<!--
+selectタグ
+name"seat"とリクエストパラメータを設定。
+
+-->
