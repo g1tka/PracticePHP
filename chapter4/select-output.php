@@ -13,3 +13,13 @@ default:
 }
 ?>
 <?php require '../footer.php'; ?>
+
+<!--
+switch文とdefault
+ラジオボタンと同じ？
+case/case/caseではなく
+case/case/default
+if/elsif/elseに似ているね。
+default:それ以外～ただし、defaultにもbreak;をつける！
+
+-->
