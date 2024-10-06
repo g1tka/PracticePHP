@@ -5,3 +5,9 @@
 <input type="submit" value="投稿">
 </form>
 <?php require '../footer.php'; ?>
+
+<!--
+いわゆる投稿フォーム！
+text指定、name="message"としてsubmitボタン。
+board-outputへ。
+-->
